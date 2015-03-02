@@ -11,7 +11,7 @@ This project was made for a Computer Networks' project on Instituto Superior Té
  - Paulo Jorge Louseiro Gouveia
 
 #Full Description
-As described on the project page:
+As described in the project page:
 
 "The goal is to develop an application for content distribution, with several servers replicating the available contents, with the user requests being answered by the “nearest” server.
 
